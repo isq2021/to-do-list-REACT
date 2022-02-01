@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [REACT-to-do-list](https://github.com/isq2021/to-do-list-REACT)
 
 - 🌱 I’m currently learning **REACT**
-- 🔭 See `contributing.md` for ways to get started.
+- 🔭 -------------See `contributing.md` for ways to get started on this project collaboration!----------------------------!!!!!!!!!!---------
 
 - 👯 I’m looking to collaborate on [REACT-to-do-list](https://github.com/isq2021/to-do-list-REACT)
 
